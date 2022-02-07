@@ -10,6 +10,8 @@ public class Literals
     	int Learnerid=20;
     	String Learnername="sanvitha";
     	int Learnerage=22;
+    	float Learnermarks=78.93f;
+    	String Learneraddress="Nizamabad";
     	
     	   System.out.print("Learnerid:");
     	   System.out.println(Learnerid);
@@ -19,5 +21,11 @@ public class Literals
     	   
     	   System.out.print("Learnerage:");
     	   System.out.println(Learnerage);
+    	   
+    	   System.out.print("Learnermarks:");
+    	   System.out.println(Learnermarks);
+    	   
+    	   System.out.print("Learneraddress:");
+    	   System.out.println(Learneraddress);
     }
 }
