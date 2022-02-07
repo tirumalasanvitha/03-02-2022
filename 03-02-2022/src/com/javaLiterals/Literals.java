@@ -5,7 +5,7 @@ public class Literals
     public static void main(String[] args) 
     {
     	/**
-    	 *write a java program to print Learner details(id,name and age)
+    	 *write a java program to print Learner details(id,name,age,name and address)
     	 */
     	int Learnerid=20;
     	String Learnername="sanvitha";
