@@ -5,13 +5,15 @@ public class Literals
     public static void main(String[] args) 
     {
     	/**
-    	 *write a java program to print Learner details(id,name,age,name and address)
+    	 *write a java program to print Learner details(id,name,age,name,address,result and grade)
     	 */
     	int Learnerid=20;
     	String Learnername="sanvitha";
     	int Learnerage=22;
     	float Learnermarks=78.93f;
     	String Learneraddress="Nizamabad";
+    	boolean Learnerresult=true;
+    	char Learnergrade='A';
     	
     	   System.out.print("Learnerid:");
     	   System.out.println(Learnerid);
@@ -27,5 +29,12 @@ public class Literals
     	   
     	   System.out.print("Learneraddress:");
     	   System.out.println(Learneraddress);
+    	   
+    	   System.out.print("Learnerresult:");
+    	   System.out.println(Learnerresult);
+    	   
+    	   System.out.print("Learnergrade:");
+    	   System.out.println(Learnergrade);
+    	   
     }
 }
